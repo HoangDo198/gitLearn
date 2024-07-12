@@ -6,3 +6,15 @@ body {
   width: 100vh;
   padding-top: 0px;
 }
+
+a {
+  text-decoration: none;
+}
+
+b {
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
