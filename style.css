@@ -6,3 +6,15 @@ body {
   width: 100vh;
   padding-top: 0px;
 }
+
+div {
+  background-color: white;
+}
+
+p {
+  background-color: yellow;
+}
+
+section {
+  padding: 0px;
+}
