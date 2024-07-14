@@ -7,14 +7,14 @@ body {
   padding-top: 0px;
 }
 
-a {
-  text-decoration: none;
+div {
+  background-color: white;
 }
 
-b {
-  font-weight: bold;
+p {
+  background-color: yellow;
 }
 
-a:hover {
-  text-decoration: underline;
+section {
+  padding: 0px;
 }
